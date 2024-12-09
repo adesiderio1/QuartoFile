@@ -1,0 +1,18 @@
+---
+title: "Home"
+format: html
+---
+
+## My Resume
+
+Feel free to take a look at my resume below!
+
+<iframe src="files/AngeloDesiderioResume.pdf" width="125%" height="800vh" style="border: none;">
+
+</iframe>
+
+## Links
+
+#### [LinkedIn](https://www.linkedin.com/in/angelo-desiderio-624497186/)
+
+#### [Github](https://github.com/adesiderio1)

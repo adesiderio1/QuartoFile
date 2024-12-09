@@ -1,0 +1,29 @@
+---
+title: "Projects"
+format: html
+---
+
+This is a catalog of the previous projects I've worked on which is a mix sourced from both my professional and academic experience (in reverse chronological order):
+
+## **Summer Kaggle Competition STATS101C**
+
+<iframe src="files/Sample3.pdf" width="100%" height="450vh" style="border: none;"></iframe>
+
+- **Role:** Group Member
+- **Description:** As part of a class final, I was a group member in a summer Kaggle event. Ultimately placing 3rd place overall in a 18 team competition. In the PDF some the main objectives and additional contextual information is included on the first page. Lastly names of my group members have been removed to protect sensitive information.
+
+## **DataFest 2024**
+
+<iframe src="files/E13DataDreamTeam.pdf" width="100%" height="500vh" style="border: none;"></iframe>
+
+-   **Role:** Team Lead
+-   **Description:** Above is my team's submission for 2024's DataFest. We used a combination of Rstudio and Tableau in order to create the insights and visualizations, Unfortunately we did not receive an award but still were able to learn valuable skills such as team coordination and being able to work technically with R. 
+
+## **UFC Research Project** 
+
+<iframe src="files/UFC.pdf" width="100%" height="500vh" style="border: none;"></iframe>
+
+- **Role:** Project creator
+- **Description** As part of my final project in my Intro to Data Analysis and Regression course I personally picked this dataset as I happen to watch the UFC for personal enjoyment so I thought it would be interesting to do some research on it since the data was available.
+
+

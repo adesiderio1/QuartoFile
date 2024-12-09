@@ -1,0 +1,18 @@
+---
+title: "About Me"
+format: html
+---
+
+![](images/profilepic.jpg){fig-align="left" width="179"}
+
+## **Contact Information:**
+
+**Email:** angelodesiderio20\@gmail.com
+
+**Phone:** 661-492-5784
+
+------------------------------------------------------------------------
+
+**About me:** Hello! I'm Angelo and welcome to my website. For as long as I can remember, I have been drawn to data. Currently pursuing a Bachelor of Science in Statistics & Data Science at UCLA, I have applied my analytic expertise in various roles, including my time as a **Data Analyst at UCLA Tennis Consulting** and a **Data Assistant for the City of Lancaster**. My experience includes designing interactive dashboards in Tableau, conducting multivariate statistical analysis in RStudio and Python, and automating data processes using SQL. I tend to thrive in environments where I can solve complex problems and deliver impactful recommendations. With a lifelong interest in continuous learning, I am committed to leveraging data for the purpose of being able to tell a story with it.
+
+**Career aspirations:** With an approaching graduation date around the corner (March 2025), I have numerous routes to potentially go down. But as of now one of the goals is to become a **data engineer** specifically within the healthcare industry. But I'm still open to the possibility of continuing my education through graduate school, as I would like to explore fields that combine my pre-existing knowledge from my undergrad degree an example being **bio-statistics or epidemiology.**
